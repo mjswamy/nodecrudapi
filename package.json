@@ -1,0 +1,19 @@
+{
+  "name": "nodecrudapi",
+  "version": "1.0.0",
+  "description": "simple crud app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjswamy/nodecrudapi.git"
+  },
+  "author": "swamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjswamy/nodecrudapi/issues"
+  },
+  "homepage": "https://github.com/mjswamy/nodecrudapi#readme"
+}
